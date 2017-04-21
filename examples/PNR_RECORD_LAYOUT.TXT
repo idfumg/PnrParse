@@ -1,0 +1,29 @@
+                                PNR RECORD LAYOUT         
+
+        Element Identifier                                        Element Type 
+        
+                01                                                UPDATE 
+                02                                                GROUP NAME 
+                03                                                NAME 
+                04                                                SEGMENT                 
+                05                                                GROUP 
+                06                                                CONTACT 
+                07                                                TICKET STATUS
+                08                                                FARE CALCULATION 
+                09                                                MAILING ADDRESS 
+                10                                                BILLING ADDRESS 
+                11                                                FARES 
+                12                                                AUXILIARY SERVICE 
+                13                                                SSR 
+                14                                                OSI 
+                15                                                REMARKS 
+                17                                                GUEST COMMENTS 
+                18                                                FARE BOX 
+                19                                                TOUR CODE 
+                20                                                ORIGINAL ISSUE 
+                21                                                TICKET NUMBER 
+                22                                                ENDORSEMENT INFORMATION 
+                23                                                FORM OF PAYMENT 
+                24                                                SUPPLEMENTARY NAME 
+                25                                                TICKETING DATA 
+                31                                                RESPONSIBILITY 
